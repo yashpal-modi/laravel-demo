@@ -11,8 +11,7 @@ use Hash;
 use Carbon\Carbon;
   
 class UserController extends Controller
-{
-    
+{    
     /**
      * load login page
      *
